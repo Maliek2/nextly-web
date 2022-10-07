@@ -28,20 +28,6 @@ export default function Home() {
   return (
     <>
       <Head>
-        <script 
-            src="https://imasdk.googleapis.com/js/sdkloader/gpt_proxy.js">
-         </script>
-       <script async
-       data-ad-frequency-hint="30s"
-       src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-123456789" # your publisher ID
-       crossorigin="anonymous">
-       </script>
-       <script>
-      window.adsbygoogle = window.adsbygoogle || [];
-      var adBreak = adConfig = function(o) {adsbygoogle.push(o);}
-       </script>
-
- 
         <script src="https://imasdk.googleapis.com/js/sdkloader/gpt_proxy.js"></script>
         <link rel="icon" href="/favicon.ico" />
       </Head>
