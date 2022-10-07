@@ -33,6 +33,7 @@ export default function Home() {
           name="description"
           content="Nextly is a free landing page template built with next.js & Tailwind CSS"
         />
+        <script src="https://imasdk.googleapis.com/js/sdkloader/gpt_proxy.js"></script>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
