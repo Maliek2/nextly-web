@@ -50,7 +50,7 @@ export default function Footer() {
                 <Image
                   src="/img/vercel.svg"
                   layout="responsive"
-                  alt="Powered by Vercel"
+                  alt="Powered by Maliek"
                   width="212"
                   height="44"
                 />
@@ -84,21 +84,21 @@ export default function Footer() {
             <div>Follow us</div>
             <div className="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
               <a
-                href="https://twitter.com/web3templates"
+                href="https://twitter.com/petersowner"
                 target="_blank"
                 rel="noopener">
                 <span className="sr-only">Twitter</span>
                 <Twitter />
               </a>
               <a
-                href="https://facebook.com/web3templates"
+                href="https://facebook.com/malicinfo"
                 target="_blank"
                 rel="noopener">
                 <span className="sr-only">Facebook</span>
                 <Facebook />
               </a>
               <a
-                href="https://instagram.com/web3templates"
+                href="https://instagram.com/maliekgalant1"
                 target="_blank"
                 rel="noopener">
                 <span className="sr-only">Instagram</span>
@@ -118,14 +118,14 @@ export default function Footer() {
         <div className="my-10 text-sm text-center text-gray-600 dark:text-gray-400">
           Copyright © {new Date().getFullYear()}. Made with ♥ by{" "}
           <a
-            href="https://web3templates.com/"
+            href="https://www.adball.tech/"
             target="_blank"
             rel="noopener">
-            Web3Templates.
+            Web Tech.
           </a>{" "}
           Illustrations from{" "}
           <a
-            href="https://www.glazestock.com/"
+            href="https://www.adball.online/"
             target="_blank"
             rel="noopener ">
             Glazestock
@@ -184,7 +184,7 @@ const Linkedin = ({ size = 24 }) => (
 const Backlink = () => {
   return (
     <a
-      href="https://web3templates.com"
+      href="https://www.adball.tech"
       target="_blank"
       rel="noopener"
       className="absolute flex px-3 py-1 space-x-2 text-sm font-semibold text-gray-900 bg-white border border-gray-300 rounded shadow-sm place-items-center left-5 bottom-5 dark:bg-trueGray-900 dark:border-trueGray-700 dark:text-trueGray-300">
@@ -207,7 +207,7 @@ const Backlink = () => {
         />
       </svg>
 
-      <span>Web3Templates</span>
+      <span>Maliek News</span>
     </a>
   );
 };
