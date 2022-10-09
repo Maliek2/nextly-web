@@ -70,7 +70,7 @@ export default function Home() {
       <Cta />
       <Footer />
       <PopupWidget />
-      
+      <Amp />
       
     </>
   );
