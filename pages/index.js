@@ -71,7 +71,7 @@ export default function Home() {
       <Cta />
       <Footer />
       <PopupWidget />
-      <script src="app.js" async></script>
+      
       
     </>
   );
