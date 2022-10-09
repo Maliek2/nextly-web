@@ -1,10 +1,4 @@
-<p align="center">
- <a href="https://www.adball.tech/?ref=nextly_github_logo">
- <img src="   " alt="W3T" width="100" height="41"/>
- </a> 
- <br>
- <br>
-</p>
+
 
 # Nextly - Landing Page Template with Next.js & Tailwind CSS
 
