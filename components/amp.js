@@ -12,7 +12,6 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import events from '../components/events.js';
 import * as Runtimes from '../components/runtimes.js';
 
 const PARAM_MODE = 'mode';
