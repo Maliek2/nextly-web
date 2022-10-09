@@ -27,10 +27,14 @@ import PopupWidget from "../components/popupWidget";
 export default function Home() {
   return (
     <>
+      <html ⚡ lang="en">
       <Head>
+
         <script src="https://imasdk.googleapis.com/js/sdkloader/gpt_proxy.js"></script>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6607653375286321" crossorigin="anonymous"></script>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="preconnect" href="//adball.tech">
+        <link rel="preconnect" href="//www.adball.tech" crossorigin>
       </Head>
 
       <Navbar />
@@ -67,6 +71,8 @@ export default function Home() {
       <Cta />
       <Footer />
       <PopupWidget />
+      <script src="app.js" async></script>
+      </html>
     </>
   );
 }
