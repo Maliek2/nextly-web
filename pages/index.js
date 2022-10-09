@@ -33,8 +33,7 @@ export default function Home() {
         <script src="https://imasdk.googleapis.com/js/sdkloader/gpt_proxy.js"></script>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6607653375286321" crossorigin="anonymous"></script>
         <link rel="icon" href="/favicon.ico" />
-        <link rel="preconnect" href="//adball.tech">
-        <link rel="preconnect" href="//www.adball.tech" crossorigin>
+        
       </Head>
 
       <Navbar />
