@@ -27,7 +27,7 @@ import PopupWidget from "../components/popupWidget";
 export default function Home() {
   return (
     <>
-      <html ⚡ lang="en">
+      
       <Head>
 
         <script src="https://imasdk.googleapis.com/js/sdkloader/gpt_proxy.js"></script>
@@ -72,7 +72,7 @@ export default function Home() {
       <Footer />
       <PopupWidget />
       <script src="app.js" async></script>
-      </html>
+      
     </>
   );
 }
